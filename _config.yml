@@ -1,0 +1,9 @@
+title: Greta Jansen
+
+#use logo to put the profile picture with the image file based on the relative path in github repository
+#logo:
+
+#description: text under the profile image
+
+show_downloads: true
+theme: jekyll-theme-architect
